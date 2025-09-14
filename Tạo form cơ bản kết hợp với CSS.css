@@ -1,0 +1,3 @@
+textarea, button{width: 500px;}
+button{background-color: rgb(22, 226, 22); color:white; border-radius: 5px; padding:10px; border: none;} 
+input{padding:10px; width: 480px;}

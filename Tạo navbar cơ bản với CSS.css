@@ -1,0 +1,8 @@
+li {display:inline-block; padding: 10px;}
+nav{background-color:rgb(122, 124, 125); color:rgb(32, 30, 30);text-align: center;}
+h1{background-color: rgb(28, 27, 27);
+color:white; padding: 30px; text-align: center;
+margin-bottom: 0px;}
+a{text-decoration: none;
+color:rgb(50, 49, 49); margin-right: 20px;}
+ul{margin-top: 0px;}
